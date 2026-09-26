@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T15:09:50.229Z",
+  "updatedAt": "2026-09-26T18:11:47.385Z",
   "games": [
     {
       "id": 824223,
@@ -454,17 +454,17 @@
     {
       "id": 822678,
       "date": "2026-09-26T16:35:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "New York Mets",
       "home": "Washington Nationals",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 1,
       "venue": "Nationals Park"
     },
     {
       "id": 824219,
       "date": "2026-09-26T17:10:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Pittsburgh Pirates",
       "home": "Detroit Tigers",
       "awayScore": 0,
@@ -477,8 +477,8 @@
       "status": "Preview",
       "away": "Cincinnati Reds",
       "home": "Toronto Blue Jays",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Rogers Centre"
     },
     {
@@ -487,8 +487,8 @@
       "status": "Preview",
       "away": "Los Angeles Dodgers",
       "home": "San Francisco Giants",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Oracle Park"
     },
     {
@@ -497,8 +497,8 @@
       "status": "Preview",
       "away": "Texas Rangers",
       "home": "Minnesota Twins",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Target Field"
     },
     {
@@ -507,8 +507,8 @@
       "status": "Preview",
       "away": "Atlanta Braves",
       "home": "Miami Marlins",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "loanDepot park"
     },
     {
