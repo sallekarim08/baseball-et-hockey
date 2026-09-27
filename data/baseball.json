@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T03:10:11.147Z",
+  "updatedAt": "2026-09-27T06:13:35.302Z",
   "games": [
     {
       "id": 823326,
@@ -394,31 +394,31 @@
     {
       "id": 823245,
       "date": "2026-09-27T00:40:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Arizona Diamondbacks",
       "home": "San Diego Padres",
-      "awayScore": 4,
+      "awayScore": 7,
       "homeScore": 10,
       "venue": "Petco Park"
     },
     {
       "id": 824949,
       "date": "2026-09-27T01:40:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Houston Astros",
       "home": "Athletics",
-      "awayScore": 6,
-      "homeScore": 1,
+      "awayScore": 13,
+      "homeScore": 2,
       "venue": "Sutter Health Park"
     },
     {
       "id": 823083,
       "date": "2026-09-27T01:40:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Los Angeles Angels",
       "home": "Seattle Mariners",
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 4,
+      "homeScore": 8,
       "venue": "T-Mobile Park"
     },
     {
@@ -603,13 +603,13 @@
     },
     {
       "id": 849843,
-      "date": "2026-09-29T07:33:00Z",
+      "date": "2026-09-29T10:33:00Z",
       "status": "Preview",
-      "away": "NL Wild Card #2",
-      "home": "NL Wild Card #1",
+      "away": "Chicago Cubs",
+      "home": "San Diego Padres",
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium"
+      "venue": "Petco Park"
     },
     {
       "id": 849848,
@@ -643,13 +643,13 @@
     },
     {
       "id": 849842,
-      "date": "2026-09-30T07:33:00Z",
+      "date": "2026-09-30T10:33:00Z",
       "status": "Preview",
-      "away": "NL Wild Card #2",
-      "home": "NL Wild Card #1",
+      "away": "Chicago Cubs",
+      "home": "San Diego Padres",
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium"
+      "venue": "Petco Park"
     },
     {
       "id": 849847,
@@ -683,13 +683,13 @@
     },
     {
       "id": 849840,
-      "date": "2026-10-01T07:33:00Z",
+      "date": "2026-10-01T10:33:00Z",
       "status": "Preview",
-      "away": "NL Wild Card #2",
-      "home": "NL Wild Card #1",
+      "away": "Chicago Cubs",
+      "home": "San Diego Padres",
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium"
+      "venue": "Petco Park"
     },
     {
       "id": 849829,
