@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T09:09:59.216Z",
+  "updatedAt": "2026-09-27T12:12:50.476Z",
   "games": [
     {
       "id": 823326,
@@ -595,7 +595,7 @@
       "id": 849845,
       "date": "2026-09-29T07:33:00Z",
       "status": "Preview",
-      "away": "NL Wild Card #3",
+      "away": "PHI/ARI",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
@@ -635,7 +635,7 @@
       "id": 849841,
       "date": "2026-09-30T07:33:00Z",
       "status": "Preview",
-      "away": "NL Wild Card #3",
+      "away": "PHI/ARI",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
@@ -675,7 +675,7 @@
       "id": 849844,
       "date": "2026-10-01T07:33:00Z",
       "status": "Preview",
-      "away": "NL Wild Card #3",
+      "away": "PHI/ARI",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
