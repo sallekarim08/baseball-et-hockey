@@ -1,126 +1,6 @@
 {
-  "updatedAt": "2026-09-27T21:10:03.164Z",
+  "updatedAt": "2026-09-28T00:15:48.187Z",
   "games": [
-    {
-      "id": 823326,
-      "date": "2026-09-24T16:35:00Z",
-      "status": "Final",
-      "away": "St. Louis Cardinals",
-      "home": "Pittsburgh Pirates",
-      "awayScore": 1,
-      "homeScore": 2,
-      "venue": "PNC Park"
-    },
-    {
-      "id": 824059,
-      "date": "2026-09-24T18:10:00Z",
-      "status": "Final",
-      "away": "Chicago White Sox",
-      "home": "Kansas City Royals",
-      "awayScore": 9,
-      "homeScore": 1,
-      "venue": "Kauffman Stadium"
-    },
-    {
-      "id": 824623,
-      "date": "2026-09-24T18:20:00Z",
-      "status": "Final",
-      "away": "Miami Marlins",
-      "home": "Chicago Cubs",
-      "awayScore": 1,
-      "homeScore": 2,
-      "venue": "Wrigley Field"
-    },
-    {
-      "id": 822842,
-      "date": "2026-09-24T18:35:00Z",
-      "status": "Final",
-      "away": "New York Mets",
-      "home": "Texas Rangers",
-      "awayScore": 1,
-      "homeScore": 3,
-      "venue": "Globe Life Field"
-    },
-    {
-      "id": 824298,
-      "date": "2026-09-24T19:10:00Z",
-      "status": "Final",
-      "away": "Arizona Diamondbacks",
-      "home": "Colorado Rockies",
-      "awayScore": 12,
-      "homeScore": 8,
-      "venue": "Coors Field"
-    },
-    {
-      "id": 823411,
-      "date": "2026-09-24T22:05:00Z",
-      "status": "Final",
-      "away": "Milwaukee Brewers",
-      "home": "Philadelphia Phillies",
-      "awayScore": 5,
-      "homeScore": 1,
-      "venue": "Citizens Bank Park"
-    },
-    {
-      "id": 824707,
-      "date": "2026-09-24T22:45:00Z",
-      "status": "Final",
-      "away": "Cleveland Guardians",
-      "home": "Boston Red Sox",
-      "awayScore": 1,
-      "homeScore": 0,
-      "venue": "Fenway Park"
-    },
-    {
-      "id": 823493,
-      "date": "2026-09-24T23:05:00Z",
-      "status": "Final",
-      "away": "Tampa Bay Rays",
-      "home": "New York Yankees",
-      "awayScore": 4,
-      "homeScore": 6,
-      "venue": "Yankee Stadium"
-    },
-    {
-      "id": 824866,
-      "date": "2026-09-24T23:15:00Z",
-      "status": "Final",
-      "away": "Cincinnati Reds",
-      "home": "Atlanta Braves",
-      "awayScore": 7,
-      "homeScore": 6,
-      "venue": "Truist Park"
-    },
-    {
-      "id": 824950,
-      "date": "2026-09-25T01:40:00Z",
-      "status": "Final",
-      "away": "Houston Astros",
-      "home": "Athletics",
-      "awayScore": 7,
-      "homeScore": 5,
-      "venue": "Sutter Health Park"
-    },
-    {
-      "id": 823087,
-      "date": "2026-09-25T01:40:00Z",
-      "status": "Final",
-      "away": "Los Angeles Angels",
-      "home": "Seattle Mariners",
-      "awayScore": 6,
-      "homeScore": 4,
-      "venue": "T-Mobile Park"
-    },
-    {
-      "id": 823895,
-      "date": "2026-09-25T02:10:00Z",
-      "status": "Final",
-      "away": "San Diego Padres",
-      "home": "Los Angeles Dodgers",
-      "awayScore": 4,
-      "homeScore": 2,
-      "venue": "UNIQLO Field at Dodger Stadium"
-    },
     {
       "id": 824703,
       "date": "2026-09-25T17:05:00Z",
@@ -434,7 +314,7 @@
     {
       "id": 823408,
       "date": "2026-09-27T18:30:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Tampa Bay Rays",
       "home": "Philadelphia Phillies",
       "awayScore": 3,
@@ -444,47 +324,47 @@
     {
       "id": 824705,
       "date": "2026-09-27T19:05:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Chicago Cubs",
       "home": "Boston Red Sox",
-      "awayScore": 3,
+      "awayScore": 6,
       "homeScore": 2,
       "venue": "Tropicana Field"
     },
     {
       "id": 824948,
       "date": "2026-09-27T19:05:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Houston Astros",
       "home": "Athletics",
-      "awayScore": 6,
+      "awayScore": 9,
       "homeScore": 0,
       "venue": "Sutter Health Park"
     },
     {
       "id": 823164,
       "date": "2026-09-27T19:05:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Los Angeles Dodgers",
       "home": "San Francisco Giants",
-      "awayScore": 1,
+      "awayScore": 5,
       "homeScore": 1,
       "venue": "Oracle Park"
     },
     {
       "id": 822761,
       "date": "2026-09-27T19:07:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Cincinnati Reds",
       "home": "Toronto Blue Jays",
       "awayScore": 1,
-      "homeScore": 4,
+      "homeScore": 5,
       "venue": "Rogers Centre"
     },
     {
       "id": 824055,
       "date": "2026-09-27T19:10:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Cleveland Guardians",
       "home": "Kansas City Royals",
       "awayScore": 2,
@@ -494,7 +374,7 @@
     {
       "id": 824217,
       "date": "2026-09-27T19:10:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Pittsburgh Pirates",
       "home": "Detroit Tigers",
       "awayScore": 4,
@@ -504,60 +384,60 @@
     {
       "id": 823246,
       "date": "2026-09-27T19:10:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Arizona Diamondbacks",
       "home": "San Diego Padres",
       "awayScore": 4,
-      "homeScore": 4,
+      "homeScore": 9,
       "venue": "Petco Park"
     },
     {
       "id": 823084,
       "date": "2026-09-27T19:10:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Los Angeles Angels",
       "home": "Seattle Mariners",
-      "awayScore": 1,
-      "homeScore": 4,
+      "awayScore": 3,
+      "homeScore": 7,
       "venue": "T-Mobile Park"
     },
     {
       "id": 823650,
       "date": "2026-09-27T19:10:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Texas Rangers",
       "home": "Minnesota Twins",
-      "awayScore": 1,
-      "homeScore": 5,
+      "awayScore": 4,
+      "homeScore": 6,
       "venue": "Target Field"
     },
     {
       "id": 824542,
       "date": "2026-09-27T19:10:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Colorado Rockies",
       "home": "Chicago White Sox",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 4,
       "venue": "Rate Field"
     },
     {
       "id": 823814,
       "date": "2026-09-27T19:10:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Atlanta Braves",
       "home": "Miami Marlins",
       "awayScore": 3,
-      "homeScore": 4,
+      "homeScore": 5,
       "venue": "loanDepot park"
     },
     {
       "id": 823731,
       "date": "2026-09-27T19:10:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "St. Louis Cardinals",
       "home": "Milwaukee Brewers",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 6,
       "venue": "American Family Field"
     },
@@ -575,7 +455,7 @@
       "id": 849845,
       "date": "2026-09-29T18:00:00Z",
       "status": "Preview",
-      "away": "PHI/ARI",
+      "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
@@ -586,10 +466,10 @@
       "date": "2026-09-29T21:00:00Z",
       "status": "Preview",
       "away": "Chicago White Sox",
-      "home": "HOU/TEX",
+      "home": "Houston Astros",
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium"
+      "venue": "Daikin Park"
     },
     {
       "id": 849851,
@@ -615,7 +495,7 @@
       "id": 849841,
       "date": "2026-09-30T18:00:00Z",
       "status": "Preview",
-      "away": "PHI/ARI",
+      "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
@@ -626,10 +506,10 @@
       "date": "2026-09-30T21:00:00Z",
       "status": "Preview",
       "away": "Chicago White Sox",
-      "home": "HOU/TEX",
+      "home": "Houston Astros",
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium"
+      "venue": "Daikin Park"
     },
     {
       "id": 849848,
@@ -655,7 +535,7 @@
       "id": 849844,
       "date": "2026-10-01T18:00:00Z",
       "status": "Preview",
-      "away": "PHI/ARI",
+      "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
@@ -666,10 +546,10 @@
       "date": "2026-10-01T21:00:00Z",
       "status": "Preview",
       "away": "Chicago White Sox",
-      "home": "HOU/TEX",
+      "home": "Houston Astros",
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium"
+      "venue": "Daikin Park"
     },
     {
       "id": 849847,
@@ -695,7 +575,7 @@
       "id": 849829,
       "date": "2026-10-03T07:33:00Z",
       "status": "Preview",
-      "away": "AL 3/6 Winner",
+      "away": "HOU/CWS",
       "home": "Cleveland Guardians",
       "awayScore": null,
       "homeScore": null,
@@ -705,7 +585,7 @@
       "id": 849835,
       "date": "2026-10-03T07:33:00Z",
       "status": "Preview",
-      "away": "AL 4/5 Winner",
+      "away": "NYY/BOS",
       "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
@@ -715,7 +595,7 @@
       "id": 849830,
       "date": "2026-10-03T08:33:00Z",
       "status": "Preview",
-      "away": "NL 4/5 Winner",
+      "away": "SD/CHC",
       "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
@@ -725,7 +605,7 @@
       "id": 849828,
       "date": "2026-10-03T10:33:00Z",
       "status": "Preview",
-      "away": "NL 3/6 Winner",
+      "away": "ATL/PHI",
       "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
@@ -735,7 +615,7 @@
       "id": 849825,
       "date": "2026-10-04T08:33:00Z",
       "status": "Preview",
-      "away": "NL 4/5 Winner",
+      "away": "SD/CHC",
       "home": "Milwaukee Brewers",
       "awayScore": null,
       "homeScore": null,
@@ -745,11 +625,31 @@
       "id": 849823,
       "date": "2026-10-04T10:33:00Z",
       "status": "Preview",
-      "away": "NL 3/6 Winner",
+      "away": "ATL/PHI",
       "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium"
+    },
+    {
+      "id": 849834,
+      "date": "2026-10-05T07:33:00Z",
+      "status": "Preview",
+      "away": "HOU/CWS",
+      "home": "Cleveland Guardians",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Progressive Field"
+    },
+    {
+      "id": 849839,
+      "date": "2026-10-05T07:33:00Z",
+      "status": "Preview",
+      "away": "NYY/BOS",
+      "home": "Tampa Bay Rays",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Tropicana Field"
     }
   ]
 }
