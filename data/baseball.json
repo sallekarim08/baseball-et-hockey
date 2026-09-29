@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:13:38.335Z",
+  "updatedAt": "2026-09-29T18:13:52.039Z",
   "games": [
     {
       "id": 822678,
@@ -284,7 +284,7 @@
     {
       "id": 849845,
       "date": "2026-09-29T18:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayScore": 0,
@@ -297,8 +297,8 @@
       "status": "Preview",
       "away": "Chicago White Sox",
       "home": "Houston Astros",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park"
     },
     {
