@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T18:12:55.706Z",
+  "updatedAt": "2026-09-30T21:10:42.623Z",
   "games": [
     {
       "id": 822679,
@@ -197,18 +197,18 @@
       "status": "Live",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 3,
       "venue": "Truist Park"
     },
     {
       "id": 849846,
       "date": "2026-09-30T21:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Chicago White Sox",
       "home": "Houston Astros",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Daikin Park"
     },
     {
@@ -217,8 +217,8 @@
       "status": "Preview",
       "away": "Boston Red Sox",
       "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Yankee Stadium"
     },
     {
