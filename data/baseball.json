@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:14:54.876Z",
+  "updatedAt": "2026-09-30T15:14:43.489Z",
   "games": [
     {
       "id": 822679,
@@ -197,8 +197,8 @@
       "status": "Preview",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Truist Park"
     },
     {
