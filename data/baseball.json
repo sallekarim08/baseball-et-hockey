@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T15:14:43.489Z",
+  "updatedAt": "2026-09-30T18:12:55.706Z",
   "games": [
     {
       "id": 822679,
@@ -194,7 +194,7 @@
     {
       "id": 849841,
       "date": "2026-09-30T18:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
       "awayScore": 0,
