@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T00:16:08.214Z",
+  "updatedAt": "2026-10-01T03:11:32.592Z",
   "games": [
     {
       "id": 849845,
@@ -54,7 +54,7 @@
     {
       "id": 849846,
       "date": "2026-09-30T21:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Chicago White Sox",
       "home": "Houston Astros",
       "awayScore": 7,
@@ -67,18 +67,18 @@
       "status": "Live",
       "away": "Boston Red Sox",
       "home": "New York Yankees",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 9,
       "venue": "Yankee Stadium"
     },
     {
       "id": 849842,
       "date": "2026-10-01T02:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Chicago Cubs",
       "home": "San Diego Padres",
       "awayScore": 0,
-      "homeScore": 0,
+      "homeScore": 2,
       "venue": "Petco Park"
     },
     {
@@ -90,16 +90,6 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Truist Park"
-    },
-    {
-      "id": 849850,
-      "date": "2026-10-01T21:00:00Z",
-      "status": "Preview",
-      "away": "Chicago White Sox",
-      "home": "Houston Astros",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "Daikin Park"
     },
     {
       "id": 849847,
@@ -125,7 +115,7 @@
       "id": 849829,
       "date": "2026-10-03T17:00:00Z",
       "status": "Preview",
-      "away": "HOU/CWS",
+      "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
       "awayScore": null,
       "homeScore": null,
@@ -185,7 +175,7 @@
       "id": 849834,
       "date": "2026-10-05T21:00:00Z",
       "status": "Preview",
-      "away": "HOU/CWS",
+      "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
       "awayScore": null,
       "homeScore": null,
@@ -226,10 +216,10 @@
       "date": "2026-10-07T07:33:00Z",
       "status": "Preview",
       "away": "Cleveland Guardians",
-      "home": "HOU/CWS",
+      "home": "Chicago White Sox",
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium"
+      "venue": "Rate Field"
     },
     {
       "id": 849838,
@@ -266,10 +256,10 @@
       "date": "2026-10-08T07:33:00Z",
       "status": "Preview",
       "away": "Cleveland Guardians",
-      "home": "HOU/CWS",
+      "home": "Chicago White Sox",
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium"
+      "venue": "Rate Field"
     },
     {
       "id": 849837,
