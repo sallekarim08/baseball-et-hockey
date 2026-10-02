@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T21:10:30.058Z",
+  "updatedAt": "2026-10-02T00:15:22.006Z",
   "games": [
     {
       "id": 2026020001,
@@ -84,41 +84,41 @@
     {
       "id": 2026020009,
       "date": "2026-10-01T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Flyers",
       "home": "Devils",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 0,
       "venue": "Prudential Center"
     },
     {
       "id": 2026020010,
       "date": "2026-10-01T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Lightning",
       "home": "Rangers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 2,
       "venue": "Madison Square Garden"
     },
     {
       "id": 2026020011,
       "date": "2026-10-01T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Sabres",
       "home": "Blue Jackets",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Nationwide Arena"
     },
     {
       "id": 2026020012,
       "date": "2026-10-02T00:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Wild",
       "home": "Predators",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Bridgestone Arena"
     },
     {
@@ -650,6 +650,46 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "T-Mobile Arena"
+    },
+    {
+      "id": 2026020066,
+      "date": "2026-10-09T23:00:00Z",
+      "status": "FUT",
+      "away": "Kraken",
+      "home": "Red Wings",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Little Caesars Arena"
+    },
+    {
+      "id": 2026020067,
+      "date": "2026-10-09T23:00:00Z",
+      "status": "FUT",
+      "away": "Rangers",
+      "home": "Capitals",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Capital One Arena"
+    },
+    {
+      "id": 2026020068,
+      "date": "2026-10-09T23:00:00Z",
+      "status": "FUT",
+      "away": "Penguins",
+      "home": "Blue Jackets",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Nationwide Arena"
+    },
+    {
+      "id": 2026020069,
+      "date": "2026-10-10T00:00:00Z",
+      "status": "FUT",
+      "away": "Ducks",
+      "home": "Jets",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Canada Life Centre"
     }
   ]
 }
