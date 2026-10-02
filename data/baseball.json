@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:15:22.006Z",
+  "updatedAt": "2026-10-02T03:11:44.814Z",
   "games": [
     {
       "id": 849845,
@@ -84,11 +84,11 @@
     {
       "id": 849844,
       "date": "2026-10-02T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Philadelphia Phillies",
       "home": "Atlanta Braves",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 6,
       "venue": "Truist Park"
     },
     {
@@ -105,7 +105,7 @@
       "id": 849828,
       "date": "2026-10-03T20:00:00Z",
       "status": "Preview",
-      "away": "ATL/PHI",
+      "away": "Atlanta Braves",
       "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
@@ -145,7 +145,7 @@
       "id": 849823,
       "date": "2026-10-05T00:00:00Z",
       "status": "Preview",
-      "away": "ATL/PHI",
+      "away": "Atlanta Braves",
       "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
@@ -176,10 +176,10 @@
       "date": "2026-10-06T22:00:00Z",
       "status": "Preview",
       "away": "Los Angeles Dodgers",
-      "home": "ATL/PHI",
+      "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium"
+      "venue": "Truist Park"
     },
     {
       "id": 849826,
@@ -206,10 +206,10 @@
       "date": "2026-10-07T22:00:00Z",
       "status": "Preview",
       "away": "Los Angeles Dodgers",
-      "home": "ATL/PHI",
+      "home": "Atlanta Braves",
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium"
+      "venue": "Truist Park"
     },
     {
       "id": 849838,
@@ -265,7 +265,7 @@
       "id": 849821,
       "date": "2026-10-10T00:00:00Z",
       "status": "Preview",
-      "away": "ATL/PHI",
+      "away": "Atlanta Braves",
       "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
