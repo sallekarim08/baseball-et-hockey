@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:11:51.479Z",
+  "updatedAt": "2026-10-03T14:55:21.234Z",
   "games": [
     {
       "id": 849841,
@@ -57,8 +57,8 @@
       "status": "Preview",
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field"
     },
     {
