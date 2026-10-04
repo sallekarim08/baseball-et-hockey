@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T04:49:19.835Z",
+  "updatedAt": "2026-10-04T11:20:49.109Z",
   "games": [
     {
       "id": 2026020009,
@@ -244,21 +244,21 @@
     {
       "id": 2026020033,
       "date": "2026-10-04T02:00:00Z",
-      "status": "CRIT",
+      "status": "OFF",
       "away": "Flames",
       "home": "Canucks",
       "awayScore": 1,
-      "homeScore": 2,
+      "homeScore": 4,
       "venue": "Rogers Arena"
     },
     {
       "id": 2026020034,
       "date": "2026-10-04T02:00:00Z",
-      "status": "CRIT",
+      "status": "OFF",
       "away": "Kings",
       "home": "Sharks",
       "awayScore": 4,
-      "homeScore": 4,
+      "homeScore": 5,
       "venue": "SAP Center at San Jose"
     },
     {
