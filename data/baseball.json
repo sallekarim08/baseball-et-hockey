@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T18:12:36.525Z",
+  "updatedAt": "2026-10-04T21:32:43.919Z",
   "games": [
     {
       "id": 849844,
@@ -54,11 +54,11 @@
     {
       "id": 849825,
       "date": "2026-10-04T20:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "San Diego Padres",
       "home": "Milwaukee Brewers",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 1,
       "venue": "American Family Field"
     },
     {
@@ -67,8 +67,8 @@
       "status": "Preview",
       "away": "Atlanta Braves",
       "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium"
     },
     {
