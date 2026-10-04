@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T11:20:49.109Z",
+  "updatedAt": "2026-10-04T18:12:36.525Z",
   "games": [
     {
       "id": 849844,
@@ -57,8 +57,8 @@
       "status": "Preview",
       "away": "San Diego Padres",
       "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "American Family Field"
     },
     {

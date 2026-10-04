@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T11:20:49.109Z",
+  "updatedAt": "2026-10-04T18:12:36.526Z",
   "games": [
     {
       "id": 2026020009,
@@ -264,11 +264,11 @@
     {
       "id": 2026020035,
       "date": "2026-10-04T17:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Jets",
       "home": "Red Wings",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 0,
       "venue": "Little Caesars Arena"
     },
     {
