@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T02:46:20.477Z",
+  "updatedAt": "2026-10-04T04:49:19.835Z",
   "games": [
     {
       "id": 849844,
@@ -44,11 +44,11 @@
     {
       "id": 849830,
       "date": "2026-10-04T00:30:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "San Diego Padres",
       "home": "Milwaukee Brewers",
       "awayScore": 2,
-      "homeScore": 2,
+      "homeScore": 3,
       "venue": "American Family Field"
     },
     {
