@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T03:13:06.088Z",
+  "updatedAt": "2026-10-05T06:18:00.763Z",
   "games": [
     {
       "id": 849829,
@@ -54,11 +54,11 @@
     {
       "id": 849823,
       "date": "2026-10-05T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Atlanta Braves",
       "home": "Los Angeles Dodgers",
       "awayScore": 3,
-      "homeScore": 1,
+      "homeScore": 2,
       "venue": "UNIQLO Field at Dodger Stadium"
     },
     {

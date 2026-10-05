@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T03:13:06.088Z",
+  "updatedAt": "2026-10-05T06:18:00.763Z",
   "games": [
     {
       "id": 2026020017,
@@ -204,7 +204,7 @@
     {
       "id": 2026020037,
       "date": "2026-10-05T00:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Panthers",
       "home": "Ducks",
       "awayScore": 2,
@@ -214,7 +214,7 @@
     {
       "id": 2026020038,
       "date": "2026-10-05T00:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Flames",
       "home": "Kraken",
       "awayScore": 1,
@@ -224,7 +224,7 @@
     {
       "id": 2026020039,
       "date": "2026-10-05T01:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Golden Knights",
       "home": "Canucks",
       "awayScore": 3,
