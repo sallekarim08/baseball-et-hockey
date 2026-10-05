@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-04T21:32:43.919Z",
+  "updatedAt": "2026-10-05T00:16:05.668Z",
   "games": [
-    {
-      "id": 849844,
-      "date": "2026-10-02T00:00:00Z",
-      "status": "Final",
-      "away": "Philadelphia Phillies",
-      "home": "Atlanta Braves",
-      "awayScore": 2,
-      "homeScore": 6,
-      "venue": "Truist Park"
-    },
     {
       "id": 849829,
       "date": "2026-10-03T17:00:00Z",
@@ -54,20 +44,20 @@
     {
       "id": 849825,
       "date": "2026-10-04T20:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "San Diego Padres",
       "home": "Milwaukee Brewers",
-      "awayScore": 2,
-      "homeScore": 1,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "American Family Field"
     },
     {
       "id": 849823,
       "date": "2026-10-05T00:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Atlanta Braves",
       "home": "Los Angeles Dodgers",
-      "awayScore": 0,
+      "awayScore": 1,
       "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium"
     },
@@ -214,6 +204,26 @@
     {
       "id": 849809,
       "date": "2026-10-11T07:33:00Z",
+      "status": "Preview",
+      "away": "NL Lower Seed",
+      "home": "NL Higher Seed",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "NL Stadium"
+    },
+    {
+      "id": 849820,
+      "date": "2026-10-12T07:33:00Z",
+      "status": "Preview",
+      "away": "AL Lower Seed",
+      "home": "AL Higher Seed",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium"
+    },
+    {
+      "id": 849812,
+      "date": "2026-10-12T07:33:00Z",
       "status": "Preview",
       "away": "NL Lower Seed",
       "home": "NL Higher Seed",
