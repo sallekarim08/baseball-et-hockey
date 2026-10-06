@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T03:10:52.007Z",
+  "updatedAt": "2026-10-06T06:14:11.236Z",
   "games": [
     {
       "id": 849829,
@@ -74,7 +74,7 @@
     {
       "id": 849839,
       "date": "2026-10-06T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "New York Yankees",
       "home": "Tampa Bay Rays",
       "awayScore": 2,
