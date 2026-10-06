@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T18:14:10.850Z",
+  "updatedAt": "2026-10-06T00:16:38.729Z",
   "games": [
     {
       "id": 849829,
@@ -64,21 +64,21 @@
     {
       "id": 849834,
       "date": "2026-10-05T21:00:00Z",
-      "status": "Preview",
+      "status": "Final",
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 3,
       "venue": "Progressive Field"
     },
     {
       "id": 849839,
       "date": "2026-10-06T00:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "New York Yankees",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field"
     },
     {
@@ -230,6 +230,16 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "NL Stadium"
+    },
+    {
+      "id": 849813,
+      "date": "2026-10-13T07:33:00Z",
+      "status": "Preview",
+      "away": "AL Lower Seed",
+      "home": "AL Higher Seed",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium"
     }
   ]
 }
