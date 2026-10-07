@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T03:11:28.630Z",
+  "updatedAt": "2026-10-07T06:12:49.413Z",
   "games": [
     {
       "id": 849825,
@@ -54,11 +54,11 @@
     {
       "id": 849826,
       "date": "2026-10-07T01:30:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Milwaukee Brewers",
       "home": "San Diego Padres",
-      "awayScore": 2,
-      "homeScore": 2,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "Petco Park"
     },
     {
