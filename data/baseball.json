@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T03:11:31.473Z",
+  "updatedAt": "2026-10-08T06:16:13.025Z",
   "games": [
     {
       "id": 849834,
@@ -64,7 +64,7 @@
     {
       "id": 849838,
       "date": "2026-10-08T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Tampa Bay Rays",
       "home": "New York Yankees",
       "awayScore": 4,
@@ -74,16 +74,16 @@
     {
       "id": 849827,
       "date": "2026-10-08T02:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Milwaukee Brewers",
       "home": "San Diego Padres",
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 1,
       "venue": "Petco Park"
     },
     {
       "id": 849832,
-      "date": "2026-10-08T21:00:00Z",
+      "date": "2026-10-09T00:00:00Z",
       "status": "Preview",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
@@ -92,28 +92,8 @@
       "venue": "Rate Field"
     },
     {
-      "id": 849837,
-      "date": "2026-10-09T00:00:00Z",
-      "status": "Preview",
-      "away": "Tampa Bay Rays",
-      "home": "New York Yankees",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "Yankee Stadium"
-    },
-    {
-      "id": 849824,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "Preview",
-      "away": "San Diego Padres",
-      "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "American Family Field"
-    },
-    {
       "id": 849831,
-      "date": "2026-10-10T21:00:00Z",
+      "date": "2026-10-11T00:00:00Z",
       "status": "Preview",
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
@@ -122,84 +102,74 @@
       "venue": "Progressive Field"
     },
     {
-      "id": 849836,
-      "date": "2026-10-11T00:00:00Z",
+      "id": 849809,
+      "date": "2026-10-11T07:33:00Z",
       "status": "Preview",
-      "away": "New York Yankees",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "American Family Field"
+    },
+    {
+      "id": 849812,
+      "date": "2026-10-12T07:33:00Z",
+      "status": "Preview",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "American Family Field"
+    },
+    {
+      "id": 849820,
+      "date": "2026-10-12T07:33:00Z",
+      "status": "Preview",
+      "away": "CLE/CWS",
       "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
       "venue": "Tropicana Field"
     },
     {
-      "id": 849809,
-      "date": "2026-10-11T07:33:00Z",
-      "status": "Preview",
-      "away": "LAD/SD",
-      "home": "MIL/LAD",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium"
-    },
-    {
-      "id": 849820,
-      "date": "2026-10-12T07:33:00Z",
-      "status": "Preview",
-      "away": "AL Lower Seed",
-      "home": "AL Higher Seed",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium"
-    },
-    {
-      "id": 849812,
-      "date": "2026-10-12T07:33:00Z",
-      "status": "Preview",
-      "away": "LAD/SD",
-      "home": "MIL/LAD",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "NL Stadium"
-    },
-    {
       "id": 849813,
       "date": "2026-10-13T07:33:00Z",
       "status": "Preview",
-      "away": "AL Lower Seed",
-      "home": "AL Higher Seed",
+      "away": "CLE/CWS",
+      "home": "Tampa Bay Rays",
       "awayScore": null,
       "homeScore": null,
-      "venue": "AL Stadium"
+      "venue": "Tropicana Field"
     },
     {
       "id": 849811,
       "date": "2026-10-14T07:33:00Z",
       "status": "Preview",
-      "away": "MIL/LAD",
-      "home": "LAD/SD",
+      "away": "Milwaukee Brewers",
+      "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium"
-    },
-    {
-      "id": 849818,
-      "date": "2026-10-15T07:33:00Z",
-      "status": "Preview",
-      "away": "AL Higher Seed",
-      "home": "AL Lower Seed",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "AL Stadium"
+      "venue": "UNIQLO Field at Dodger Stadium"
     },
     {
       "id": 849810,
       "date": "2026-10-15T07:33:00Z",
       "status": "Preview",
-      "away": "MIL/LAD",
-      "home": "LAD/SD",
+      "away": "Milwaukee Brewers",
+      "home": "Los Angeles Dodgers",
       "awayScore": null,
       "homeScore": null,
-      "venue": "NL Stadium"
+      "venue": "UNIQLO Field at Dodger Stadium"
+    },
+    {
+      "id": 849818,
+      "date": "2026-10-15T07:33:00Z",
+      "status": "Preview",
+      "away": "Tampa Bay Rays",
+      "home": "CLE/CWS",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium"
     }
   ]
 }
