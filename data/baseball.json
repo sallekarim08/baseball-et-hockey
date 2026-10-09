@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T03:11:33.884Z",
+  "updatedAt": "2026-10-09T06:15:21.242Z",
   "games": [
     {
       "id": 849819,
@@ -64,11 +64,11 @@
     {
       "id": 849832,
       "date": "2026-10-09T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
       "awayScore": 9,
-      "homeScore": 4,
+      "homeScore": 5,
       "venue": "Rate Field"
     },
     {
