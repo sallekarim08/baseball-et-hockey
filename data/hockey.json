@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-08T21:11:47.503Z",
+  "updatedAt": "2026-10-09T00:17:45.142Z",
   "games": [
-    {
-      "id": 2026020040,
-      "date": "2026-10-05T23:00:00Z",
-      "status": "OFF",
-      "away": "Flyers",
-      "home": "Lightning",
-      "awayScore": 1,
-      "homeScore": 4,
-      "venue": "Benchmark International Arena"
-    },
-    {
-      "id": 2026020041,
-      "date": "2026-10-05T23:30:00Z",
-      "status": "OFF",
-      "away": "Senators",
-      "home": "Bruins",
-      "awayScore": 4,
-      "homeScore": 1,
-      "venue": "TD Garden"
-    },
-    {
-      "id": 2026020042,
-      "date": "2026-10-05T23:30:00Z",
-      "status": "OFF",
-      "away": "Jets",
-      "home": "Penguins",
-      "awayScore": 3,
-      "homeScore": 2,
-      "venue": "PPG Paints Arena"
-    },
-    {
-      "id": 2026020043,
-      "date": "2026-10-06T00:00:00Z",
-      "status": "OFF",
-      "away": "Sharks",
-      "home": "Stars",
-      "awayScore": 0,
-      "homeScore": 5,
-      "venue": "American Airlines Center"
-    },
     {
       "id": 2026020044,
       "date": "2026-10-06T23:00:00Z",
@@ -164,81 +124,81 @@
     {
       "id": 2026020056,
       "date": "2026-10-08T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Mammoth",
       "home": "Bruins",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 4,
       "venue": "TD Garden"
     },
     {
       "id": 2026020057,
       "date": "2026-10-08T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Stars",
       "home": "Sabres",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 0,
       "venue": "KeyBank Center"
     },
     {
       "id": 2026020058,
       "date": "2026-10-08T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Predators",
       "home": "Canadiens",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 1,
       "venue": "Centre Bell"
     },
     {
       "id": 2026020059,
       "date": "2026-10-08T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Flyers",
       "home": "Senators",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 1,
       "venue": "Canadian Tire Centre"
     },
     {
       "id": 2026020060,
       "date": "2026-10-08T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Wild",
       "home": "Lightning",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Benchmark International Arena"
     },
     {
       "id": 2026020061,
       "date": "2026-10-08T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Canucks",
       "home": "Hurricanes",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 4,
       "venue": "Lenovo Center"
     },
     {
       "id": 2026020062,
       "date": "2026-10-08T23:30:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Blackhawks",
       "home": "Islanders",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 1,
       "venue": "UBS Arena"
     },
     {
       "id": 2026020063,
       "date": "2026-10-09T00:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Sharks",
       "home": "Blues",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 1,
       "venue": "Enterprise Center"
     },
     {
@@ -790,6 +750,26 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "T-Mobile Arena"
+    },
+    {
+      "id": 2026020119,
+      "date": "2026-10-17T01:00:00Z",
+      "status": "FUT",
+      "away": "Penguins",
+      "home": "Avalanche",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Ball Arena"
+    },
+    {
+      "id": 2026020120,
+      "date": "2026-10-17T02:00:00Z",
+      "status": "FUT",
+      "away": "Bruins",
+      "home": "Ducks",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Honda Center"
     }
   ]
 }
