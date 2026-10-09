@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T00:17:45.142Z",
+  "updatedAt": "2026-10-09T03:11:33.884Z",
   "games": [
     {
       "id": 849819,
@@ -67,8 +67,8 @@
       "status": "Live",
       "away": "Cleveland Guardians",
       "home": "Chicago White Sox",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 9,
+      "homeScore": 4,
       "venue": "Rate Field"
     },
     {
