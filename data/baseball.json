@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-09T21:11:07.848Z",
+  "updatedAt": "2026-10-10T00:16:32.655Z",
   "games": [
-    {
-      "id": 849819,
-      "date": "2026-10-06T22:00:00Z",
-      "status": "Final",
-      "away": "Los Angeles Dodgers",
-      "home": "Atlanta Braves",
-      "awayScore": 3,
-      "homeScore": 1,
-      "venue": "Truist Park"
-    },
-    {
-      "id": 849826,
-      "date": "2026-10-07T01:30:00Z",
-      "status": "Final",
-      "away": "Milwaukee Brewers",
-      "home": "San Diego Padres",
-      "awayScore": 3,
-      "homeScore": 4,
-      "venue": "Petco Park"
-    },
     {
       "id": 849833,
       "date": "2026-10-07T20:00:00Z",
@@ -170,6 +150,16 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "UNIQLO Field at Dodger Stadium"
+    },
+    {
+      "id": 849816,
+      "date": "2026-10-18T00:00:00Z",
+      "status": "Preview",
+      "away": "Tampa Bay Rays",
+      "home": "CLE/CWS",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "AL Stadium"
     }
   ]
 }
