@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:16:32.656Z",
+  "updatedAt": "2026-10-10T03:10:55.494Z",
   "games": [
     {
       "id": 2026020053,
@@ -134,41 +134,41 @@
     {
       "id": 2026020066,
       "date": "2026-10-09T23:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Kraken",
       "home": "Red Wings",
-      "awayScore": 2,
-      "homeScore": 2,
+      "awayScore": 6,
+      "homeScore": 3,
       "venue": "Little Caesars Arena"
     },
     {
       "id": 2026020067,
       "date": "2026-10-09T23:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Rangers",
       "home": "Capitals",
       "awayScore": 1,
-      "homeScore": 1,
+      "homeScore": 3,
       "venue": "Capital One Arena"
     },
     {
       "id": 2026020068,
       "date": "2026-10-09T23:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Penguins",
       "home": "Blue Jackets",
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 2,
+      "homeScore": 3,
       "venue": "Nationwide Arena"
     },
     {
       "id": 2026020069,
       "date": "2026-10-10T00:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Ducks",
       "home": "Jets",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 5,
+      "homeScore": 1,
       "venue": "Canada Life Centre"
     },
     {
