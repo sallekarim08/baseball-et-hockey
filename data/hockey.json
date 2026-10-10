@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T15:09:20.660Z",
+  "updatedAt": "2026-10-10T18:11:08.504Z",
   "games": [
     {
       "id": 2026020053,
@@ -174,11 +174,11 @@
     {
       "id": 2026020070,
       "date": "2026-10-10T17:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Flyers",
       "home": "Bruins",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 1,
       "venue": "TD Garden"
     },
     {
