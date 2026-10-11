@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:11:14.977Z",
+  "updatedAt": "2026-10-11T21:10:13.689Z",
   "games": [
     {
       "id": 2026020056,
@@ -284,11 +284,11 @@
     {
       "id": 2026020084,
       "date": "2026-10-11T21:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Kraken",
       "home": "Capitals",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Capital One Arena"
     },
     {

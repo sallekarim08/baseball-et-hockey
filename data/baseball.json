@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:11:14.976Z",
+  "updatedAt": "2026-10-11T21:10:13.688Z",
   "games": [
     {
       "id": 849832,
@@ -27,8 +27,8 @@
       "status": "Preview",
       "away": "Los Angeles Dodgers",
       "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "American Family Field"
     },
     {
