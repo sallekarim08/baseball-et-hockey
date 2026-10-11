@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-10T21:09:29.355Z",
+  "updatedAt": "2026-10-11T00:16:13.519Z",
   "games": [
-    {
-      "id": 849833,
-      "date": "2026-10-07T20:00:00Z",
-      "status": "Final",
-      "away": "Cleveland Guardians",
-      "home": "Chicago White Sox",
-      "awayScore": 9,
-      "homeScore": 3,
-      "venue": "Rate Field"
-    },
-    {
-      "id": 849822,
-      "date": "2026-10-07T22:00:00Z",
-      "status": "Final",
-      "away": "Los Angeles Dodgers",
-      "home": "Atlanta Braves",
-      "awayScore": 4,
-      "homeScore": 1,
-      "venue": "Truist Park"
-    },
-    {
-      "id": 849838,
-      "date": "2026-10-08T00:00:00Z",
-      "status": "Final",
-      "away": "Tampa Bay Rays",
-      "home": "New York Yankees",
-      "awayScore": 4,
-      "homeScore": 3,
-      "venue": "Yankee Stadium"
-    },
-    {
-      "id": 849827,
-      "date": "2026-10-08T02:00:00Z",
-      "status": "Final",
-      "away": "Milwaukee Brewers",
-      "home": "San Diego Padres",
-      "awayScore": 3,
-      "homeScore": 1,
-      "venue": "Petco Park"
-    },
     {
       "id": 849832,
       "date": "2026-10-09T00:00:00Z",
@@ -54,7 +14,7 @@
     {
       "id": 849831,
       "date": "2026-10-11T00:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Chicago White Sox",
       "home": "Cleveland Guardians",
       "awayScore": 0,
@@ -160,6 +120,16 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "AL Stadium"
+    },
+    {
+      "id": 849806,
+      "date": "2026-10-19T00:00:00Z",
+      "status": "Preview",
+      "away": "Los Angeles Dodgers",
+      "home": "Milwaukee Brewers",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "American Family Field"
     }
   ]
 }
