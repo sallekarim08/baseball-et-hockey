@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:15:36.826Z",
+  "updatedAt": "2026-10-12T18:12:13.417Z",
   "games": [
     {
       "id": 2026020066,
@@ -214,11 +214,11 @@
     {
       "id": 2026020087,
       "date": "2026-10-12T17:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Panthers",
       "home": "Sabres",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 2,
       "venue": "KeyBank Center"
     },
     {
