@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T00:17:18.288Z",
+  "updatedAt": "2026-10-12T03:13:03.173Z",
   "games": [
     {
       "id": 849831,
@@ -14,11 +14,11 @@
     {
       "id": 849809,
       "date": "2026-10-12T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Los Angeles Dodgers",
       "home": "Milwaukee Brewers",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 2,
       "venue": "American Family Field"
     },
     {
