@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T03:12:22.577Z",
+  "updatedAt": "2026-10-13T06:17:02.759Z",
   "games": [
     {
       "id": 2026020070,
@@ -194,7 +194,7 @@
     {
       "id": 2026020089,
       "date": "2026-10-13T00:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Golden Knights",
       "home": "Wild",
       "awayScore": 2,
