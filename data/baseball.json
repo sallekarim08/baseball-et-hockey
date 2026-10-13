@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T21:10:47.630Z",
+  "updatedAt": "2026-10-13T00:18:41.195Z",
   "games": [
     {
       "id": 849831,
@@ -27,14 +27,14 @@
       "status": "Live",
       "away": "Los Angeles Dodgers",
       "home": "Milwaukee Brewers",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 7,
       "venue": "American Family Field"
     },
     {
       "id": 849820,
       "date": "2026-10-13T00:00:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
       "awayScore": 0,
@@ -140,6 +140,16 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "American Family Field"
+    },
+    {
+      "id": 849814,
+      "date": "2026-10-21T00:00:00Z",
+      "status": "Preview",
+      "away": "Cleveland Guardians",
+      "home": "Tampa Bay Rays",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Tropicana Field"
     }
   ]
 }
