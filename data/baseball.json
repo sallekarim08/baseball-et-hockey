@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:18:41.195Z",
+  "updatedAt": "2026-10-13T03:12:22.577Z",
   "games": [
     {
       "id": 849831,
@@ -24,7 +24,7 @@
     {
       "id": 849812,
       "date": "2026-10-12T21:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Los Angeles Dodgers",
       "home": "Milwaukee Brewers",
       "awayScore": 4,
@@ -34,11 +34,11 @@
     {
       "id": 849820,
       "date": "2026-10-13T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 7,
+      "homeScore": 3,
       "venue": "Tropicana Field"
     },
     {
