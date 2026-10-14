@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T03:22:48.463Z",
+  "updatedAt": "2026-10-14T06:26:11.109Z",
   "games": [
     {
       "id": 2026020084,
@@ -164,7 +164,7 @@
     {
       "id": 2026020100,
       "date": "2026-10-14T00:30:00Z",
-      "status": "CRIT",
+      "status": "OFF",
       "away": "Avalanche",
       "home": "Stars",
       "awayScore": 3,
@@ -174,7 +174,7 @@
     {
       "id": 2026020101,
       "date": "2026-10-14T00:45:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Golden Knights",
       "home": "Predators",
       "awayScore": 5,
@@ -184,7 +184,7 @@
     {
       "id": 2026020102,
       "date": "2026-10-14T01:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Maple Leafs",
       "home": "Mammoth",
       "awayScore": 4,
@@ -194,31 +194,31 @@
     {
       "id": 2026020103,
       "date": "2026-10-14T01:45:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Flames",
       "home": "Ducks",
-      "awayScore": 2,
+      "awayScore": 4,
       "homeScore": 2,
       "venue": "Honda Center"
     },
     {
       "id": 2026020104,
       "date": "2026-10-14T02:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Oilers",
       "home": "Kings",
-      "awayScore": 3,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 1,
       "venue": "Crypto.com Arena"
     },
     {
       "id": 2026020105,
       "date": "2026-10-14T03:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Bruins",
       "home": "Sharks",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 6,
+      "homeScore": 3,
       "venue": "SAP Center at San Jose"
     },
     {
