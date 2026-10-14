@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T18:26:28.420Z",
+  "updatedAt": "2026-10-14T21:22:47.647Z",
   "games": [
     {
       "id": 849809,
@@ -47,8 +47,8 @@
       "status": "Preview",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "UNIQLO Field at Dodger Stadium"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "id": 849810,
-      "date": "2026-10-16T01:00:00Z",
+      "date": "2026-10-16T00:00:00Z",
       "status": "Preview",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
