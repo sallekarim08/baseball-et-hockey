@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:24:16.495Z",
+  "updatedAt": "2026-10-14T03:22:48.463Z",
   "games": [
     {
       "id": 849809,
@@ -34,11 +34,11 @@
     {
       "id": 849813,
       "date": "2026-10-14T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Tropicana Field"
     },
     {
