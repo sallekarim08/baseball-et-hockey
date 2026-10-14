@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T15:26:57.941Z",
+  "updatedAt": "2026-10-14T18:26:28.420Z",
   "games": [
     {
       "id": 849809,
@@ -53,7 +53,7 @@
     },
     {
       "id": 849818,
-      "date": "2026-10-15T22:00:00Z",
+      "date": "2026-10-15T17:00:00Z",
       "status": "Preview",
       "away": "Tampa Bay Rays",
       "home": "Cleveland Guardians",
