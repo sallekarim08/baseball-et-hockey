@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:23:22.054Z",
+  "updatedAt": "2026-10-15T03:21:55.194Z",
   "games": [
     {
       "id": 2026020087,
@@ -194,21 +194,21 @@
     {
       "id": 2026020106,
       "date": "2026-10-14T23:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Canadiens",
       "home": "Capitals",
-      "awayScore": 2,
-      "homeScore": 1,
+      "awayScore": 4,
+      "homeScore": 5,
       "venue": "Capital One Arena"
     },
     {
       "id": 2026020107,
       "date": "2026-10-15T00:30:00Z",
-      "status": "PRE",
+      "status": "CRIT",
       "away": "Stars",
       "home": "Avalanche",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 2,
       "venue": "Ball Arena"
     },
     {

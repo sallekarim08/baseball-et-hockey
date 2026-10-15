@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T00:23:22.053Z",
+  "updatedAt": "2026-10-15T03:21:55.194Z",
   "games": [
     {
       "id": 849812,
@@ -34,11 +34,11 @@
     {
       "id": 849811,
       "date": "2026-10-15T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 6,
+      "homeScore": 2,
       "venue": "UNIQLO Field at Dodger Stadium"
     },
     {
