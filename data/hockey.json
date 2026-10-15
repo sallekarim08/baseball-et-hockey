@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T03:21:55.194Z",
+  "updatedAt": "2026-10-15T06:26:52.091Z",
   "games": [
     {
       "id": 2026020087,
@@ -204,10 +204,10 @@
     {
       "id": 2026020107,
       "date": "2026-10-15T00:30:00Z",
-      "status": "CRIT",
+      "status": "OFF",
       "away": "Stars",
       "home": "Avalanche",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 2,
       "venue": "Ball Arena"
     },
