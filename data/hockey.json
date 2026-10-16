@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-15T23:32:56.219Z",
+  "updatedAt": "2026-10-16T03:15:32.009Z",
   "games": [
-    {
-      "id": 2026020087,
-      "date": "2026-10-12T17:00:00Z",
-      "status": "OFF",
-      "away": "Panthers",
-      "home": "Sabres",
-      "awayScore": 3,
-      "homeScore": 5,
-      "venue": "KeyBank Center"
-    },
-    {
-      "id": 2026020088,
-      "date": "2026-10-12T23:00:00Z",
-      "status": "OFF",
-      "away": "Senators",
-      "home": "Devils",
-      "awayScore": 4,
-      "homeScore": 1,
-      "venue": "Prudential Center"
-    },
-    {
-      "id": 2026020089,
-      "date": "2026-10-13T00:00:00Z",
-      "status": "OFF",
-      "away": "Golden Knights",
-      "home": "Wild",
-      "awayScore": 2,
-      "homeScore": 4,
-      "venue": "Grand Casino Arena"
-    },
     {
       "id": 2026020090,
       "date": "2026-10-13T22:00:00Z",
@@ -214,111 +184,111 @@
     {
       "id": 2026020108,
       "date": "2026-10-15T23:00:00Z",
-      "status": "LIVE",
+      "status": "FINAL",
       "away": "Sabres",
       "home": "Maple Leafs",
-      "awayScore": 1,
-      "homeScore": 1,
+      "awayScore": 5,
+      "homeScore": 4,
       "venue": "Scotiabank Arena"
     },
     {
       "id": 2026020109,
       "date": "2026-10-15T23:00:00Z",
-      "status": "LIVE",
+      "status": "FINAL",
       "away": "Islanders",
       "home": "Senators",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 2,
       "venue": "Canadian Tire Centre"
     },
     {
       "id": 2026020111,
       "date": "2026-10-15T23:00:00Z",
-      "status": "LIVE",
+      "status": "FINAL",
       "away": "Kraken",
       "home": "Lightning",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "Benchmark International Arena"
     },
     {
       "id": 2026020112,
       "date": "2026-10-15T23:00:00Z",
-      "status": "LIVE",
+      "status": "FINAL",
       "away": "Canucks",
       "home": "Panthers",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 3,
       "venue": "Amerant Bank Arena"
     },
     {
       "id": 2026020113,
       "date": "2026-10-15T23:00:00Z",
-      "status": "LIVE",
+      "status": "FINAL",
       "away": "Rangers",
       "home": "Devils",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 7,
       "venue": "Prudential Center"
     },
     {
       "id": 2026020110,
       "date": "2026-10-15T23:30:00Z",
-      "status": "PRE",
+      "status": "FINAL",
       "away": "Flyers",
       "home": "Red Wings",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 2,
       "venue": "Little Caesars Arena"
     },
     {
       "id": 2026020114,
       "date": "2026-10-16T00:00:00Z",
-      "status": "PRE",
+      "status": "FINAL",
       "away": "Jets",
       "home": "Blackhawks",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "United Center"
     },
     {
       "id": 2026020115,
       "date": "2026-10-16T00:00:00Z",
-      "status": "PRE",
+      "status": "FINAL",
       "away": "Sharks",
       "home": "Predators",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 3,
+      "homeScore": 2,
       "venue": "Bridgestone Arena"
     },
     {
       "id": 2026020116,
       "date": "2026-10-16T00:00:00Z",
-      "status": "PRE",
+      "status": "FINAL",
       "away": "Blues",
       "home": "Wild",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 5,
       "venue": "Grand Casino Arena"
     },
     {
       "id": 2026020117,
       "date": "2026-10-16T01:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Mammoth",
       "home": "Oilers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 3,
+      "homeScore": 2,
       "venue": "Rogers Place"
     },
     {
       "id": 2026020118,
       "date": "2026-10-16T02:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Flames",
       "home": "Golden Knights",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 2,
       "venue": "T-Mobile Arena"
     },
     {
@@ -790,6 +760,26 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Rogers Arena"
+    },
+    {
+      "id": 2026020166,
+      "date": "2026-10-24T00:00:00Z",
+      "status": "FUT",
+      "away": "Canadiens",
+      "home": "Blackhawks",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "United Center"
+    },
+    {
+      "id": 2026020167,
+      "date": "2026-10-24T01:00:00Z",
+      "status": "FUT",
+      "away": "Lightning",
+      "home": "Avalanche",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Ball Arena"
     }
   ]
 }
