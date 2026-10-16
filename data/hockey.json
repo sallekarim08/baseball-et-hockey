@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T03:15:32.009Z",
+  "updatedAt": "2026-10-16T10:45:42.099Z",
   "games": [
     {
       "id": 2026020090,
@@ -184,7 +184,7 @@
     {
       "id": 2026020108,
       "date": "2026-10-15T23:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Sabres",
       "home": "Maple Leafs",
       "awayScore": 5,
@@ -194,7 +194,7 @@
     {
       "id": 2026020109,
       "date": "2026-10-15T23:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Islanders",
       "home": "Senators",
       "awayScore": 1,
@@ -204,7 +204,7 @@
     {
       "id": 2026020111,
       "date": "2026-10-15T23:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Kraken",
       "home": "Lightning",
       "awayScore": 3,
@@ -214,7 +214,7 @@
     {
       "id": 2026020112,
       "date": "2026-10-15T23:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Canucks",
       "home": "Panthers",
       "awayScore": 2,
@@ -224,7 +224,7 @@
     {
       "id": 2026020113,
       "date": "2026-10-15T23:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Rangers",
       "home": "Devils",
       "awayScore": 1,
@@ -234,7 +234,7 @@
     {
       "id": 2026020110,
       "date": "2026-10-15T23:30:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Flyers",
       "home": "Red Wings",
       "awayScore": 1,
@@ -244,7 +244,7 @@
     {
       "id": 2026020114,
       "date": "2026-10-16T00:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Jets",
       "home": "Blackhawks",
       "awayScore": 3,
@@ -254,7 +254,7 @@
     {
       "id": 2026020115,
       "date": "2026-10-16T00:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Sharks",
       "home": "Predators",
       "awayScore": 3,
@@ -264,7 +264,7 @@
     {
       "id": 2026020116,
       "date": "2026-10-16T00:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Blues",
       "home": "Wild",
       "awayScore": 4,
@@ -274,21 +274,21 @@
     {
       "id": 2026020117,
       "date": "2026-10-16T01:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Mammoth",
       "home": "Oilers",
-      "awayScore": 3,
+      "awayScore": 4,
       "homeScore": 2,
       "venue": "Rogers Place"
     },
     {
       "id": 2026020118,
       "date": "2026-10-16T02:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Flames",
       "home": "Golden Knights",
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 2,
+      "homeScore": 6,
       "venue": "T-Mobile Arena"
     },
     {
