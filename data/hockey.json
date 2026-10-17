@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T20:10:32.856Z",
+  "updatedAt": "2026-10-17T22:53:57.071Z",
   "games": [
     {
       "id": 2026020106,
@@ -164,37 +164,37 @@
     {
       "id": 2026020122,
       "date": "2026-10-17T19:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Hurricanes",
       "home": "Jets",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 2,
       "venue": "Canada Life Centre"
     },
     {
       "id": 2026020123,
       "date": "2026-10-17T20:00:00Z",
-      "status": "LIVE",
+      "status": "FINAL",
       "away": "Canucks",
       "home": "Lightning",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 4,
       "venue": "Benchmark International Arena"
     },
     {
       "id": 2026020124,
       "date": "2026-10-17T22:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Kraken",
       "home": "Panthers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Amerant Bank Arena"
     },
     {
       "id": 2026020125,
       "date": "2026-10-17T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Islanders",
       "home": "Maple Leafs",
       "awayScore": null,
@@ -204,7 +204,7 @@
     {
       "id": 2026020126,
       "date": "2026-10-17T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Sabres",
       "home": "Canadiens",
       "awayScore": null,
@@ -214,7 +214,7 @@
     {
       "id": 2026020127,
       "date": "2026-10-17T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Sharks",
       "home": "Red Wings",
       "awayScore": null,
@@ -224,7 +224,7 @@
     {
       "id": 2026020128,
       "date": "2026-10-17T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Senators",
       "home": "Flyers",
       "awayScore": null,
@@ -234,7 +234,7 @@
     {
       "id": 2026020129,
       "date": "2026-10-17T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Rangers",
       "home": "Blue Jackets",
       "awayScore": null,
@@ -244,7 +244,7 @@
     {
       "id": 2026020130,
       "date": "2026-10-17T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Stars",
       "home": "Blackhawks",
       "awayScore": null,
