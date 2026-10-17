@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T17:50:34.298Z",
+  "updatedAt": "2026-10-17T20:10:32.856Z",
   "games": [
     {
       "id": 2026020106,
@@ -154,31 +154,31 @@
     {
       "id": 2026020121,
       "date": "2026-10-17T17:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Devils",
       "home": "Capitals",
-      "awayScore": 1,
-      "homeScore": 1,
+      "awayScore": 2,
+      "homeScore": 4,
       "venue": "Capital One Arena"
     },
     {
       "id": 2026020122,
       "date": "2026-10-17T19:30:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Hurricanes",
       "home": "Jets",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Canada Life Centre"
     },
     {
       "id": 2026020123,
       "date": "2026-10-17T20:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Canucks",
       "home": "Lightning",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Benchmark International Arena"
     },
     {
