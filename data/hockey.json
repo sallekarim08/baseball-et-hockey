@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:08:42.365Z",
+  "updatedAt": "2026-10-18T22:47:38.195Z",
   "games": [
     {
       "id": 2026020108,
@@ -274,11 +274,11 @@
     {
       "id": 2026020135,
       "date": "2026-10-18T22:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Blue Jackets",
       "home": "Wild",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "Grand Casino Arena"
     },
     {
