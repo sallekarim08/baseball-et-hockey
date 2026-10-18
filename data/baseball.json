@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T03:09:17.113Z",
+  "updatedAt": "2026-10-18T10:26:45.543Z",
   "games": [
     {
       "id": 849818,
@@ -34,7 +34,7 @@
     {
       "id": 849816,
       "date": "2026-10-18T00:08:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Tampa Bay Rays",
       "home": "Cleveland Guardians",
       "awayScore": 7,
