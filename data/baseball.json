@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:25:18.718Z",
+  "updatedAt": "2026-10-18T20:08:42.365Z",
   "games": [
     {
       "id": 849818,
@@ -47,8 +47,8 @@
       "status": "Preview",
       "away": "Tampa Bay Rays",
       "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Progressive Field"
     },
     {
