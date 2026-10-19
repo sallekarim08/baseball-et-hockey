@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:13:11.605Z",
+  "updatedAt": "2026-10-19T20:22:34.100Z",
   "games": [
     {
       "id": 849817,
@@ -37,8 +37,8 @@
       "status": "Preview",
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field"
     },
     {
