@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:55:08.914Z",
+  "updatedAt": "2026-10-20T23:37:51.140Z",
   "games": [
     {
       "id": 2026020121,
@@ -204,57 +204,57 @@
     {
       "id": 2026020141,
       "date": "2026-10-20T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Sharks",
       "home": "Canadiens",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 0,
       "venue": "Centre Bell"
     },
     {
       "id": 2026020142,
       "date": "2026-10-20T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Avalanche",
       "home": "Devils",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "Prudential Center"
     },
     {
       "id": 2026020143,
       "date": "2026-10-20T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Ducks",
       "home": "Islanders",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 1,
       "venue": "UBS Arena"
     },
     {
       "id": 2026020144,
       "date": "2026-10-20T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Kings",
       "home": "Capitals",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 1,
       "venue": "Capital One Arena"
     },
     {
       "id": 2026020145,
       "date": "2026-10-20T23:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Maple Leafs",
       "home": "Blue Jackets",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "Nationwide Arena"
     },
     {
       "id": 2026020146,
       "date": "2026-10-21T00:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Jets",
       "home": "Blues",
       "awayScore": null,
@@ -264,7 +264,7 @@
     {
       "id": 2026020147,
       "date": "2026-10-21T00:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Bruins",
       "home": "Stars",
       "awayScore": null,
