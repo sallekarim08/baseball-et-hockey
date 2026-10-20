@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-19T20:22:34.100Z",
+  "updatedAt": "2026-10-20T00:06:52.510Z",
   "games": [
-    {
-      "id": 849817,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "Final",
-      "away": "Tampa Bay Rays",
-      "home": "Cleveland Guardians",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "Progressive Field"
-    },
     {
       "id": 849816,
       "date": "2026-10-18T00:08:00Z",
@@ -34,7 +24,7 @@
     {
       "id": 849815,
       "date": "2026-10-20T00:08:00Z",
-      "status": "Preview",
+      "status": "Live",
       "away": "Cleveland Guardians",
       "home": "Tampa Bay Rays",
       "awayScore": 0,
@@ -74,6 +64,16 @@
     {
       "id": 849804,
       "date": "2026-10-27T00:00:00Z",
+      "status": "Preview",
+      "away": "Milwaukee Brewers",
+      "home": "TB/CLE",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "TBD"
+    },
+    {
+      "id": 849803,
+      "date": "2026-10-28T00:00:00Z",
       "status": "Preview",
       "away": "Milwaukee Brewers",
       "home": "TB/CLE",
