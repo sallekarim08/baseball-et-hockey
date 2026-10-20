@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:06:52.510Z",
+  "updatedAt": "2026-10-20T08:12:28.845Z",
   "games": [
     {
       "id": 2026020121,
@@ -164,41 +164,41 @@
     {
       "id": 2026020137,
       "date": "2026-10-19T23:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Ducks",
       "home": "Rangers",
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 2,
+      "homeScore": 5,
       "venue": "Madison Square Garden"
     },
     {
       "id": 2026020138,
       "date": "2026-10-19T23:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Avalanche",
       "home": "Flyers",
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 2,
+      "homeScore": 3,
       "venue": "Xfinity Mobile Arena"
     },
     {
       "id": 2026020139,
       "date": "2026-10-19T23:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Sharks",
       "home": "Maple Leafs",
       "awayScore": 1,
-      "homeScore": 0,
+      "homeScore": 3,
       "venue": "Scotiabank Arena"
     },
     {
       "id": 2026020140,
       "date": "2026-10-20T01:00:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Penguins",
       "home": "Mammoth",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 5,
       "venue": "Delta Center"
     },
     {
