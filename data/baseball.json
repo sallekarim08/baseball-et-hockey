@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-21T21:17:03.059Z",
+  "updatedAt": "2026-10-22T03:24:41.782Z",
   "games": [
-    {
-      "id": 849817,
-      "date": "2026-10-18T21:08:00Z",
-      "status": "Final",
-      "away": "Tampa Bay Rays",
-      "home": "Cleveland Guardians",
-      "awayScore": 3,
-      "homeScore": 1,
-      "venue": "Progressive Field"
-    },
     {
       "id": 849815,
       "date": "2026-10-20T00:08:00Z",
