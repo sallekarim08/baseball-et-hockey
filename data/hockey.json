@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:16:37.269Z",
+  "updatedAt": "2026-10-24T22:54:22.952Z",
   "games": [
     {
       "id": 2026020152,
@@ -164,7 +164,7 @@
     {
       "id": 2026020168,
       "date": "2026-10-24T17:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Ducks",
       "home": "Flyers",
       "awayScore": 5,
@@ -174,17 +174,17 @@
     {
       "id": 2026020169,
       "date": "2026-10-24T19:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Kings",
       "home": "Devils",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Prudential Center"
     },
     {
       "id": 2026020170,
       "date": "2026-10-24T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Sharks",
       "home": "Bruins",
       "awayScore": null,
@@ -194,7 +194,7 @@
     {
       "id": 2026020171,
       "date": "2026-10-24T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Rangers",
       "home": "Senators",
       "awayScore": null,
@@ -204,7 +204,7 @@
     {
       "id": 2026020172,
       "date": "2026-10-24T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Predators",
       "home": "Penguins",
       "awayScore": null,
@@ -214,7 +214,7 @@
     {
       "id": 2026020173,
       "date": "2026-10-24T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Sabres",
       "home": "Capitals",
       "awayScore": null,
@@ -224,7 +224,7 @@
     {
       "id": 2026020174,
       "date": "2026-10-24T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Golden Knights",
       "home": "Blue Jackets",
       "awayScore": null,
@@ -234,7 +234,7 @@
     {
       "id": 2026020175,
       "date": "2026-10-24T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Hurricanes",
       "home": "Blues",
       "awayScore": null,
@@ -244,7 +244,7 @@
     {
       "id": 2026020176,
       "date": "2026-10-24T23:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Maple Leafs",
       "home": "Oilers",
       "awayScore": null,
