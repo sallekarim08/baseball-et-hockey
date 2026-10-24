@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T03:24:08.491Z",
+  "updatedAt": "2026-10-24T10:19:58.185Z",
   "games": [
     {
       "id": 849805,
       "date": "2026-10-24T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Tampa Bay Rays",
       "home": "Milwaukee Brewers",
-      "awayScore": 1,
+      "awayScore": 2,
       "homeScore": 3,
       "venue": "American Family Field"
     },
