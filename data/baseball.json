@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T03:19:46.882Z",
+  "updatedAt": "2026-10-25T10:47:07.402Z",
   "games": [
     {
       "id": 849805,
@@ -14,7 +14,7 @@
     {
       "id": 849802,
       "date": "2026-10-25T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Tampa Bay Rays",
       "home": "Milwaukee Brewers",
       "awayScore": 4,
