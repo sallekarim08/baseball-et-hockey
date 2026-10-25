@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:35:42.926Z",
+  "updatedAt": "2026-10-25T20:24:25.089Z",
   "games": [
     {
       "id": 2026020154,
@@ -264,11 +264,11 @@
     {
       "id": 2026020180,
       "date": "2026-10-25T19:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Panthers",
       "home": "Blackhawks",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 1,
       "venue": "United Center"
     },
     {
