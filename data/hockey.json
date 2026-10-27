@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:14:42.616Z",
+  "updatedAt": "2026-10-27T08:39:53.756Z",
   "games": [
     {
       "id": 2026020168,
@@ -174,31 +174,31 @@
     {
       "id": 2026020185,
       "date": "2026-10-26T23:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Kings",
       "home": "Rangers",
-      "awayScore": 4,
-      "homeScore": 1,
+      "awayScore": 6,
+      "homeScore": 3,
       "venue": "Madison Square Garden"
     },
     {
       "id": 2026020186,
       "date": "2026-10-27T00:30:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Maple Leafs",
       "home": "Flames",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 5,
       "venue": "Scotiabank Saddledome"
     },
     {
       "id": 2026020187,
       "date": "2026-10-27T01:30:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Red Wings",
       "home": "Oilers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 3,
       "venue": "Rogers Place"
     },
     {
