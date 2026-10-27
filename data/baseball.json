@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:08:16.604Z",
+  "updatedAt": "2026-10-27T21:50:45.729Z",
   "games": [
     {
       "id": 849802,
@@ -27,8 +27,8 @@
       "status": "Preview",
       "away": "Milwaukee Brewers",
       "home": "Tampa Bay Rays",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 0,
       "venue": "Tropicana Field"
     },
     {
