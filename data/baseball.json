@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T04:07:54.196Z",
+  "updatedAt": "2026-10-28T12:09:47.497Z",
   "games": [
     {
       "id": 849804,
@@ -14,11 +14,11 @@
     {
       "id": 849803,
       "date": "2026-10-28T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Milwaukee Brewers",
       "home": "Tampa Bay Rays",
       "awayScore": 3,
-      "homeScore": 2,
+      "homeScore": 4,
       "venue": "Tropicana Field"
     },
     {
