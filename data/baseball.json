@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T00:36:52.994Z",
+  "updatedAt": "2026-10-29T09:23:18.831Z",
   "games": [
     {
       "id": 849804,
@@ -24,32 +24,12 @@
     {
       "id": 849799,
       "date": "2026-10-29T00:00:00Z",
-      "status": "Live",
+      "status": "Final",
       "away": "Milwaukee Brewers",
       "home": "Tampa Bay Rays",
-      "awayScore": 1,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 1,
       "venue": "Tropicana Field"
-    },
-    {
-      "id": 849801,
-      "date": "2026-10-31T00:00:00Z",
-      "status": "Preview",
-      "away": "Tampa Bay Rays",
-      "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "American Family Field"
-    },
-    {
-      "id": 849800,
-      "date": "2026-11-01T00:00:00Z",
-      "status": "Preview",
-      "away": "Tampa Bay Rays",
-      "home": "Milwaukee Brewers",
-      "awayScore": null,
-      "homeScore": null,
-      "venue": "American Family Field"
     }
   ]
 }
