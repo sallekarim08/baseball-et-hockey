@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:51:10.161Z",
+  "updatedAt": "2026-10-31T21:00:17.491Z",
   "games": [
     {
       "id": 2026020199,
@@ -184,61 +184,61 @@
     {
       "id": 2026020217,
       "date": "2026-10-31T17:00:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Blackhawks",
       "home": "Bruins",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 5,
       "venue": "TD Garden"
     },
     {
       "id": 2026020218,
       "date": "2026-10-31T17:00:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Blues",
       "home": "Red Wings",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 5,
+      "homeScore": 4,
       "venue": "Little Caesars Arena"
     },
     {
       "id": 2026020219,
       "date": "2026-10-31T18:00:00Z",
-      "status": "FUT",
+      "status": "FINAL",
       "away": "Lightning",
       "home": "Predators",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 5,
       "venue": "Bridgestone Arena"
     },
     {
       "id": 2026020220,
       "date": "2026-10-31T18:00:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Oilers",
       "home": "Islanders",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 0,
       "venue": "UBS Arena"
     },
     {
       "id": 2026020221,
       "date": "2026-10-31T20:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Sabres",
       "home": "Kings",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 0,
       "venue": "Crypto.com Arena"
     },
     {
       "id": 2026020222,
       "date": "2026-10-31T20:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Senators",
       "home": "Sharks",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 1,
       "venue": "SAP Center at San Jose"
     },
     {
