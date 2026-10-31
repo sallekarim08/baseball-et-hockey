@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:43:27.157Z",
+  "updatedAt": "2026-10-31T16:51:10.161Z",
   "games": [
     {
       "id": 2026020199,
@@ -184,7 +184,7 @@
     {
       "id": 2026020217,
       "date": "2026-10-31T17:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Blackhawks",
       "home": "Bruins",
       "awayScore": null,
@@ -194,7 +194,7 @@
     {
       "id": 2026020218,
       "date": "2026-10-31T17:00:00Z",
-      "status": "FUT",
+      "status": "PRE",
       "away": "Blues",
       "home": "Red Wings",
       "awayScore": null,
