@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T12:43:18.993Z",
+  "updatedAt": "2026-11-01T19:22:07.936Z",
   "games": [
     {
       "id": 2026020204,
@@ -244,11 +244,11 @@
     {
       "id": 2026020227,
       "date": "2026-11-01T18:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Jets",
       "home": "Hurricanes",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 0,
+      "homeScore": 5,
       "venue": "Lenovo Center"
     },
     {
