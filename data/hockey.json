@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:32:15.856Z",
+  "updatedAt": "2026-11-01T12:43:18.993Z",
   "games": [
     {
       "id": 2026020204,
@@ -234,7 +234,7 @@
     {
       "id": 2026020226,
       "date": "2026-11-01T02:00:00Z",
-      "status": "CRIT",
+      "status": "OFF",
       "away": "Flames",
       "home": "Avalanche",
       "awayScore": 2,
