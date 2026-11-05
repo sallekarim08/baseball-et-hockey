@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:18:29.916Z",
+  "updatedAt": "2026-11-05T10:23:09.362Z",
   "games": [
     {
       "id": 2026020232,
@@ -154,41 +154,41 @@
     {
       "id": 2026020247,
       "date": "2026-11-05T00:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Senators",
       "home": "Sabres",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 2,
+      "homeScore": 1,
       "venue": "KeyBank Center"
     },
     {
       "id": 2026020248,
       "date": "2026-11-05T00:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Blackhawks",
       "home": "Panthers",
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 3,
+      "homeScore": 5,
       "venue": "Amerant Bank Arena"
     },
     {
       "id": 2026020249,
       "date": "2026-11-05T03:00:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Sharks",
       "home": "Kings",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 7,
       "venue": "Crypto.com Arena"
     },
     {
       "id": 2026020250,
       "date": "2026-11-05T03:00:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Flames",
       "home": "Kraken",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 2,
       "venue": "Climate Pledge Arena"
     },
     {
