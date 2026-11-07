@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:38:13.513Z",
+  "updatedAt": "2026-11-07T09:38:49.577Z",
   "games": [
     {
       "id": 2026020247,
@@ -154,31 +154,31 @@
     {
       "id": 2026020262,
       "date": "2026-11-07T00:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Blue Jackets",
       "home": "Sabres",
-      "awayScore": 0,
-      "homeScore": 1,
+      "awayScore": 2,
+      "homeScore": 5,
       "venue": "KeyBank Center"
     },
     {
       "id": 2026020263,
       "date": "2026-11-07T01:00:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Sharks",
       "home": "Wild",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 4,
       "venue": "Grand Casino Arena"
     },
     {
       "id": 2026020264,
       "date": "2026-11-07T01:00:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Ducks",
       "home": "Flames",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 5,
+      "homeScore": 3,
       "venue": "Scotiabank Saddledome"
     },
     {
