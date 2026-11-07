@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T17:27:24.328Z",
+  "updatedAt": "2026-11-07T21:28:19.806Z",
   "games": [
     {
       "id": 2026020247,
@@ -184,21 +184,21 @@
     {
       "id": 2026020265,
       "date": "2026-11-07T17:30:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Panthers",
       "home": "Capitals",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "Capital One Arena"
     },
     {
       "id": 2026020266,
       "date": "2026-11-07T18:00:00Z",
-      "status": "FUT",
+      "status": "FINAL",
       "away": "Blues",
       "home": "Predators",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Bridgestone Arena"
     },
     {
