@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T12:48:07.541Z",
+  "updatedAt": "2026-11-08T19:20:24.746Z",
   "games": [
     {
       "id": 2026020251,
@@ -264,11 +264,11 @@
     {
       "id": 2026020277,
       "date": "2026-11-08T18:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Panthers",
       "home": "Bruins",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "TD Garden"
     },
     {
