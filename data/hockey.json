@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T00:33:59.839Z",
+  "updatedAt": "2026-11-09T10:55:44.027Z",
   "games": [
     {
       "id": 2026020262,
@@ -174,41 +174,41 @@
     {
       "id": 2026020280,
       "date": "2026-11-08T23:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Lightning",
       "home": "Jets",
-      "awayScore": 0,
-      "homeScore": 2,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "Canada Life Centre"
     },
     {
       "id": 2026020279,
       "date": "2026-11-09T00:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Devils",
       "home": "Maple Leafs",
-      "awayScore": 0,
+      "awayScore": 4,
       "homeScore": 0,
       "venue": "Scotiabank Arena"
     },
     {
       "id": 2026020281,
       "date": "2026-11-09T00:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Flyers",
       "home": "Flames",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 4,
       "venue": "Scotiabank Saddledome"
     },
     {
       "id": 2026020282,
       "date": "2026-11-09T01:00:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Penguins",
       "home": "Ducks",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 5,
       "venue": "Honda Center"
     },
     {
