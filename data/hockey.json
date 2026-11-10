@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-11-09T21:56:58.412Z",
+  "updatedAt": "2026-11-10T06:01:40.191Z",
   "games": [
-    {
-      "id": 2026020262,
-      "date": "2026-11-07T00:00:00Z",
-      "status": "OFF",
-      "away": "Blue Jackets",
-      "home": "Sabres",
-      "awayScore": 2,
-      "homeScore": 5,
-      "venue": "KeyBank Center"
-    },
-    {
-      "id": 2026020263,
-      "date": "2026-11-07T01:00:00Z",
-      "status": "OFF",
-      "away": "Sharks",
-      "home": "Wild",
-      "awayScore": 1,
-      "homeScore": 4,
-      "venue": "Grand Casino Arena"
-    },
-    {
-      "id": 2026020264,
-      "date": "2026-11-07T01:00:00Z",
-      "status": "OFF",
-      "away": "Ducks",
-      "home": "Flames",
-      "awayScore": 5,
-      "homeScore": 3,
-      "venue": "Scotiabank Saddledome"
-    },
     {
       "id": 2026020265,
       "date": "2026-11-07T17:30:00Z",
@@ -214,31 +184,31 @@
     {
       "id": 2026020283,
       "date": "2026-11-10T01:00:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Rangers",
       "home": "Oilers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Rogers Place"
     },
     {
       "id": 2026020284,
       "date": "2026-11-10T02:30:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Flyers",
       "home": "Canucks",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "Rogers Arena"
     },
     {
       "id": 2026020285,
       "date": "2026-11-10T03:00:00Z",
-      "status": "FUT",
+      "status": "FINAL",
       "away": "Islanders",
       "home": "Sharks",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 3,
       "venue": "SAP Center at San Jose"
     },
     {
@@ -710,6 +680,116 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Delta Center"
+    },
+    {
+      "id": 2026020333,
+      "date": "2026-11-18T00:00:00Z",
+      "status": "FUT",
+      "away": "Kings",
+      "home": "Bruins",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "TD Garden"
+    },
+    {
+      "id": 2026020335,
+      "date": "2026-11-18T00:00:00Z",
+      "status": "FUT",
+      "away": "Oilers",
+      "home": "Panthers",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Amerant Bank Arena"
+    },
+    {
+      "id": 2026020336,
+      "date": "2026-11-18T00:00:00Z",
+      "status": "FUT",
+      "away": "Blue Jackets",
+      "home": "Islanders",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "UBS Arena"
+    },
+    {
+      "id": 2026020337,
+      "date": "2026-11-18T00:00:00Z",
+      "status": "FUT",
+      "away": "Sabres",
+      "home": "Flyers",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Xfinity Mobile Arena"
+    },
+    {
+      "id": 2026020341,
+      "date": "2026-11-18T00:00:00Z",
+      "status": "FUT",
+      "away": "Senators",
+      "home": "Jets",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Canada Life Centre"
+    },
+    {
+      "id": 2026020334,
+      "date": "2026-11-18T00:30:00Z",
+      "status": "FUT",
+      "away": "Capitals",
+      "home": "Lightning",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Benchmark International Arena"
+    },
+    {
+      "id": 2026020338,
+      "date": "2026-11-18T00:30:00Z",
+      "status": "FUT",
+      "away": "Maple Leafs",
+      "home": "Blackhawks",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "United Center"
+    },
+    {
+      "id": 2026020339,
+      "date": "2026-11-18T01:00:00Z",
+      "status": "FUT",
+      "away": "Ducks",
+      "home": "Blues",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Enterprise Center"
+    },
+    {
+      "id": 2026020340,
+      "date": "2026-11-18T01:00:00Z",
+      "status": "FUT",
+      "away": "Predators",
+      "home": "Wild",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Grand Casino Arena"
+    },
+    {
+      "id": 2026020342,
+      "date": "2026-11-18T03:00:00Z",
+      "status": "FUT",
+      "away": "Stars",
+      "home": "Golden Knights",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "T-Mobile Arena"
+    },
+    {
+      "id": 2026020343,
+      "date": "2026-11-18T03:00:00Z",
+      "status": "FUT",
+      "away": "Flames",
+      "home": "Sharks",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "SAP Center at San Jose"
     }
   ]
 }
