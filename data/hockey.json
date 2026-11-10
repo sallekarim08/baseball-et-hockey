@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:01:40.191Z",
+  "updatedAt": "2026-11-10T16:47:35.015Z",
   "games": [
     {
       "id": 2026020265,
@@ -204,7 +204,7 @@
     {
       "id": 2026020285,
       "date": "2026-11-10T03:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Islanders",
       "home": "Sharks",
       "awayScore": 2,
