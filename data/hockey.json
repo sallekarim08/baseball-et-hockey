@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:59:43.547Z",
+  "updatedAt": "2026-11-14T19:42:44.017Z",
   "games": [
     {
       "id": 2026020293,
@@ -194,11 +194,11 @@
     {
       "id": 2026020321,
       "date": "2026-11-14T18:00:00Z",
-      "status": "FUT",
+      "status": "LIVE",
       "away": "Kraken",
       "home": "Hurricanes",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 4,
       "venue": "Veikkaus Arena"
     },
     {
