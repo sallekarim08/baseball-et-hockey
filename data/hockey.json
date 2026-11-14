@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:02:14.479Z",
+  "updatedAt": "2026-11-14T12:59:43.547Z",
   "games": [
     {
       "id": 2026020293,
@@ -174,7 +174,7 @@
     {
       "id": 2026020310,
       "date": "2026-11-14T02:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Rangers",
       "home": "Canucks",
       "awayScore": 5,
@@ -184,10 +184,10 @@
     {
       "id": 2026020311,
       "date": "2026-11-14T03:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Predators",
       "home": "Golden Knights",
-      "awayScore": 1,
+      "awayScore": 3,
       "homeScore": 2,
       "venue": "T-Mobile Arena"
     },
