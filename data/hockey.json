@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-11-16T21:39:32.750Z",
+  "updatedAt": "2026-11-17T06:40:53.018Z",
   "games": [
-    {
-      "id": 2026020310,
-      "date": "2026-11-14T02:00:00Z",
-      "status": "OFF",
-      "away": "Rangers",
-      "home": "Canucks",
-      "awayScore": 5,
-      "homeScore": 1,
-      "venue": "Rogers Arena"
-    },
-    {
-      "id": 2026020311,
-      "date": "2026-11-14T03:00:00Z",
-      "status": "OFF",
-      "away": "Predators",
-      "home": "Golden Knights",
-      "awayScore": 3,
-      "homeScore": 2,
-      "venue": "T-Mobile Arena"
-    },
     {
       "id": 2026020321,
       "date": "2026-11-14T18:00:00Z",
@@ -214,21 +194,21 @@
     {
       "id": 2026020331,
       "date": "2026-11-17T00:30:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Canadiens",
       "home": "Rangers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 3,
       "venue": "Madison Square Garden"
     },
     {
       "id": 2026020332,
       "date": "2026-11-17T02:30:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Canucks",
       "home": "Mammoth",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 3,
+      "homeScore": 2,
       "venue": "Delta Center"
     },
     {
@@ -750,6 +730,16 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "SAP Center at San Jose"
+    },
+    {
+      "id": 2026020385,
+      "date": "2026-11-25T01:00:00Z",
+      "status": "FUT",
+      "away": "Golden Knights",
+      "home": "Oilers",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Rogers Place"
     }
   ]
 }
