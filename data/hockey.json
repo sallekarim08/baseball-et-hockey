@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T02:17:05.751Z",
+  "updatedAt": "2026-11-19T11:09:22.244Z",
   "games": [
     {
       "id": 2026020331,
@@ -134,31 +134,31 @@
     {
       "id": 2026020344,
       "date": "2026-11-19T00:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Bruins",
       "home": "Red Wings",
-      "awayScore": 2,
+      "awayScore": 4,
       "homeScore": 1,
       "venue": "Little Caesars Arena"
     },
     {
       "id": 2026020345,
       "date": "2026-11-19T00:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Canadiens",
       "home": "Devils",
-      "awayScore": 2,
+      "awayScore": 3,
       "homeScore": 2,
       "venue": "Prudential Center"
     },
     {
       "id": 2026020346,
       "date": "2026-11-19T03:00:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Avalanche",
       "home": "Mammoth",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 4,
       "venue": "Delta Center"
     },
     {
