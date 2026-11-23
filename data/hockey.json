@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:24:36.349Z",
+  "updatedAt": "2026-11-23T11:50:01.904Z",
   "games": [
     {
       "id": 2026020359,
@@ -164,17 +164,17 @@
     {
       "id": 2026020375,
       "date": "2026-11-23T00:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Oilers",
       "home": "Blues",
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 4,
+      "homeScore": 5,
       "venue": "Enterprise Center"
     },
     {
       "id": 2026020376,
       "date": "2026-11-23T00:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Penguins",
       "home": "Stars",
       "awayScore": 0,
@@ -184,11 +184,11 @@
     {
       "id": 2026020377,
       "date": "2026-11-23T01:00:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Blackhawks",
       "home": "Canucks",
-      "awayScore": 2,
-      "homeScore": 0,
+      "awayScore": 6,
+      "homeScore": 3,
       "venue": "Rogers Arena"
     },
     {
