@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:24:45.503Z",
+  "updatedAt": "2026-11-24T08:32:07.332Z",
   "games": [
     {
       "id": 2026020359,
@@ -194,71 +194,71 @@
     {
       "id": 2026020378,
       "date": "2026-11-24T00:00:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Blue Jackets",
       "home": "Devils",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 3,
       "venue": "Prudential Center"
     },
     {
       "id": 2026020379,
       "date": "2026-11-24T00:30:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Kings",
       "home": "Canadiens",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 1,
       "venue": "Centre Bell"
     },
     {
       "id": 2026020380,
       "date": "2026-11-24T00:30:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Flames",
       "home": "Senators",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 1,
+      "homeScore": 2,
       "venue": "Canadian Tire Centre"
     },
     {
       "id": 2026020381,
       "date": "2026-11-24T00:30:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Maple Leafs",
       "home": "Islanders",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 2,
       "venue": "UBS Arena"
     },
     {
       "id": 2026020382,
       "date": "2026-11-24T00:30:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Mammoth",
       "home": "Jets",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 4,
       "venue": "Canada Life Centre"
     },
     {
       "id": 2026020383,
       "date": "2026-11-24T02:40:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Ducks",
       "home": "Kraken",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 2,
+      "homeScore": 3,
       "venue": "Climate Pledge Arena"
     },
     {
       "id": 2026020384,
       "date": "2026-11-24T03:00:00Z",
-      "status": "FUT",
+      "status": "OFF",
       "away": "Wild",
       "home": "Sharks",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 5,
+      "homeScore": 2,
       "venue": "SAP Center at San Jose"
     },
     {
@@ -770,6 +770,96 @@
       "awayScore": null,
       "homeScore": null,
       "venue": "Delta Center"
+    },
+    {
+      "id": 2026020436,
+      "date": "2026-12-02T00:00:00Z",
+      "status": "FUT",
+      "away": "Flames",
+      "home": "Red Wings",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Little Caesars Arena"
+    },
+    {
+      "id": 2026020438,
+      "date": "2026-12-02T00:00:00Z",
+      "status": "FUT",
+      "away": "Panthers",
+      "home": "Islanders",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "UBS Arena"
+    },
+    {
+      "id": 2026020439,
+      "date": "2026-12-02T00:00:00Z",
+      "status": "FUT",
+      "away": "Canucks",
+      "home": "Capitals",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Capital One Arena"
+    },
+    {
+      "id": 2026020437,
+      "date": "2026-12-02T00:30:00Z",
+      "status": "FUT",
+      "away": "Sharks",
+      "home": "Devils",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Prudential Center"
+    },
+    {
+      "id": 2026020440,
+      "date": "2026-12-02T01:00:00Z",
+      "status": "FUT",
+      "away": "Avalanche",
+      "home": "Bruins",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "TD Garden"
+    },
+    {
+      "id": 2026020441,
+      "date": "2026-12-02T01:00:00Z",
+      "status": "FUT",
+      "away": "Sabres",
+      "home": "Oilers",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Rogers Place"
+    },
+    {
+      "id": 2026020442,
+      "date": "2026-12-02T02:40:00Z",
+      "status": "FUT",
+      "away": "Stars",
+      "home": "Kraken",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Climate Pledge Arena"
+    },
+    {
+      "id": 2026020443,
+      "date": "2026-12-02T03:00:00Z",
+      "status": "FUT",
+      "away": "Wild",
+      "home": "Ducks",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Honda Center"
+    },
+    {
+      "id": 2026020444,
+      "date": "2026-12-02T03:00:00Z",
+      "status": "FUT",
+      "away": "Golden Knights",
+      "home": "Kings",
+      "awayScore": null,
+      "homeScore": null,
+      "venue": "Crypto.com Arena"
     }
   ]
 }
