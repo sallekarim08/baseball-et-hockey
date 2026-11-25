@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:56:58.850Z",
+  "updatedAt": "2026-11-25T16:49:49.574Z",
   "games": [
     {
       "id": 2026020373,
@@ -124,7 +124,7 @@
     {
       "id": 2026020385,
       "date": "2026-11-25T01:00:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Golden Knights",
       "home": "Oilers",
       "awayScore": 5,
