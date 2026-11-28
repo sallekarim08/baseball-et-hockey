@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:07:35.483Z",
+  "updatedAt": "2026-11-28T11:23:10.616Z",
   "games": [
     {
       "id": 2026020386,
@@ -254,7 +254,7 @@
     {
       "id": 2026020411,
       "date": "2026-11-27T22:30:00Z",
-      "status": "FINAL",
+      "status": "OFF",
       "away": "Rangers",
       "home": "Blackhawks",
       "awayScore": 1,
@@ -264,31 +264,31 @@
     {
       "id": 2026020412,
       "date": "2026-11-28T00:30:00Z",
-      "status": "LIVE",
+      "status": "OFF",
       "away": "Jets",
       "home": "Islanders",
-      "awayScore": 0,
-      "homeScore": 0,
+      "awayScore": 3,
+      "homeScore": 1,
       "venue": "UBS Arena"
     },
     {
       "id": 2026020413,
       "date": "2026-11-28T01:00:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Penguins",
       "home": "Sabres",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 6,
+      "homeScore": 3,
       "venue": "KeyBank Center"
     },
     {
       "id": 2026020414,
       "date": "2026-11-28T01:00:00Z",
-      "status": "PRE",
+      "status": "OFF",
       "away": "Kraken",
       "home": "Oilers",
-      "awayScore": null,
-      "homeScore": null,
+      "awayScore": 4,
+      "homeScore": 2,
       "venue": "Rogers Place"
     },
     {
